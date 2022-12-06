@@ -14,5 +14,6 @@ nav{
 }
 .buttons{
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    margin-left: 20px;
 }

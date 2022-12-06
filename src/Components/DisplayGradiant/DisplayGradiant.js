@@ -55,8 +55,9 @@ const DisplayGradiant = () => {
 
             </button>
             </div>
-            <Footer/>
     </div>
+    {/* <Footer/> */}
+
     </div>
     
 
