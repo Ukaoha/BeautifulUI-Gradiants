@@ -1,0 +1,28 @@
+.button-share {
+    margin-left: 20px;
+    padding: .3rem 1.5rem;
+    border-radius: .5rem;
+
+}
+.twiiter{
+    background-color: #1DA1F2;
+    color: #fff;
+    border: none;
+
+}
+.facebook{
+    background-color: #4267b2;
+    color: #fff;
+    border: none;
+    text-align: center;
+
+}
+.button-share  button .sapn-face{
+    text-align: center;
+    align-items: center; 
+    font-size: 14px;
+    top: -10px;
+}
+.linkedin{
+    
+}

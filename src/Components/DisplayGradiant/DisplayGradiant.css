@@ -1,0 +1,32 @@
+.bacground{
+    height: 92vh;
+
+}
+.controls{
+    position: relative;
+    top: 50%;
+
+
+}
+.content{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.content button{
+    background-color: #eee;
+    border: none;
+}
+.icon-arr  {
+    font-size: 30px;
+    color:#222 ;
+}
+.controls p {
+    text-align: center;
+    color: #fff;
+}
+.arrigt{
+    margin-left: 20px;
+    margin-right: 20px;
+}
