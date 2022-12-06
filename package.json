@@ -1,8 +1,8 @@
 {
   "name": "my-colors",
   "version": "0.1.0",
-  "private": true,
   "homepage": "http://ukaoha.github.io/BeautifulUI-Gradiants",
+  "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-regular-svg-icons": "^6.2.1",
