@@ -6,7 +6,7 @@ import {LinkedinShareButton, LinkedinIcon ,  FacebookIcon, TwitterIcon , Faceboo
 
 const ShareButton = () => {
     
-      const url = `https://google.com`
+      const url = `https://ukaoha.github.io/BeautifulUI-Gradiants/`
       const title = 'Check out this awsome site '
     
     return ( 
